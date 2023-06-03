@@ -312,9 +312,9 @@ public class MainActivity extends AppCompatActivity {
 
 ``
 ## Output:
-![java 73](https://github.com/naramala-niharika/Ex_7_-Calculator/assets/94165377/e5375550-3b2d-4a61-8841-3fd36dbe
+![java 73](https://github.com/naramala-niharika/Ex_7_-Calculator/assets/94165377/9767c657-25b5-407e-b6b2-fbd3d4e870d5)
 ![java 72](https://github.com/naramala-niharika/Ex_7_-Calculator/assets/94165377/fd2f1520-32eb-4012-b171-17a2a2b51925)
-74a6)
+
 
 
 ## Result:
